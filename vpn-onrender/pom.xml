@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.onrender</groupId>
     <artifactId>vpn-onrender</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>v1</version>
     <name>vpn-onrender</name>
     <description>vpn-onrender</description>
     <properties>
